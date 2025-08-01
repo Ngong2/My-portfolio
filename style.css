@@ -422,6 +422,11 @@ h1 {
 .project-links i {
     font-size: 0.9rem;
 }
+.project-links a:hover {
+    color: var(--dark-color); 
+    text-decoration: underline; 
+}
+
 
 /* Interests Section */
 .interests {
