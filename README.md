@@ -4,8 +4,7 @@ Welcome to the personal portfolio of **Ngong Kuot Ngong**, a Full Stack Develope
 
 ## 🌐 Live Preview
 
-> [Visit Portfolio Website](https://ngong2.github.io/My-portfolio/)  
-*(if hosted on GitHub Pages)*
+https://my-portfolio-c7y040qmg-ngongkuot6-gmailcoms-projects.vercel.app/
 
 ---
 
