@@ -4,10 +4,7 @@ Welcome to the personal portfolio of Ngong Kuot Ngong, a Full Stack Developer pa
 🌐 Live Preview
 Live Site
 
-📁 Project Structure
-bash
-Copy
-Edit
+Project Structure
 My-portfolio/
 ├── index.html           # Main HTML file
 ├── style.css            # Custom styles
@@ -46,7 +43,7 @@ Features:
 
 Contact form handling
 
-Donation integrations (M-Pesa, Stripe, PayPal)
+Donation integrations (gofundme)
 
 Newsletter and volunteer application systems
 Stack: Node.js, Express, MongoDB
